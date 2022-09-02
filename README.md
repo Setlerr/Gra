@@ -1,2 +1,1 @@
-# Gra
-Piotr Bielawa s185590
+# Gra snake
